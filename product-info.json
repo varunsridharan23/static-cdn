@@ -119,6 +119,16 @@
 	  "purchase_link" : "https://1.envato.market/wczippinpostal-code-validator",
 	  "type"          : "wp-plugin",
 	  "free"          : false
+	},
+	{
+		"name"          : "Role Based Add-To-Cart / Price Hide For WooCommerce",
+		"id"            : "25132989",
+		"banner"        : "https://static.cdn.wparrow.com/rbacph/varun-banner.jpg",
+		"thumbnail"     : "https://static.cdn.wparrow.com/rbacph/icon.jpg",
+		"demo_link"     : "https://demo.wparrow.com/rbacph",
+		"purchase_link" : "https://1.envato.market/rbacph",
+		"type"          : "wp-plugin",
+		"free"          : false
 	}
   ],
   "html"    : [
